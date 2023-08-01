@@ -1,0 +1,13 @@
+.Button{
+    padding: 14px 22px;
+    border: 1px solid tomato;
+    background-color: transparent;
+    border-radius: 10px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.Button__disabeled{
+    background-color: aliceblue;
+    font-size: 40px;
+}
